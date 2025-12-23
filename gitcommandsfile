@@ -1,0 +1,1 @@
+git init, git status, git add filename.py, git add ., git commit, git log --oneline, git log --graph --decorate --all, git diff, git diff --cached(All these are basic git commands)
